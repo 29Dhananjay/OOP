@@ -7,7 +7,7 @@ import java.util.*;
 import java.util.EmptyStackException;
 /**
  * class CanvasUtil, this class updates the model and also updates the view
- * @author 210034146
+ * @author Dhananjay Saikumar
  */
 class CanvasUtil {
     private View view;
