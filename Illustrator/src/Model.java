@@ -4,7 +4,7 @@ import java.util.Stack;
 
 /**
  * class Model, contains properties such as shape, color, fill, objectstack.
- * @author 210034146
+ * @author Dhananjay Saikumar
  */
 class Model{
     // adds listeners to the model

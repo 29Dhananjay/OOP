@@ -6,7 +6,7 @@ import java.awt.geom.*;
 
 /**
  * class Ellipse extends the abstract shape class.
- * @author 210034146
+ * @author Dhananjay Saikumar
  */
 public class Ellipse extends Shape{
     private Boolean lock_aspect_raio;

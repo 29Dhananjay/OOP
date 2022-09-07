@@ -6,7 +6,7 @@ import java.awt.geom.*;
 
 /**
  * class Rectangle extends the abstract shape class.
- * @author 210034146
+ * @author Dhananjay Saikumar
  */
 public class Rectangle extends Shape{
     private Boolean lock_aspect_raio;

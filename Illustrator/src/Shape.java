@@ -6,7 +6,7 @@ import java.awt.geom.*;
 
 /**
  * Abstract class shape.
- * @author 210034146
+ * @author Dhananjay Saikumar
  */
 public class Shape extends JComponent{
     protected Color color;

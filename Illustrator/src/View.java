@@ -8,7 +8,7 @@ import java.util.EmptyStackException;
 
 /**
  * class view @ GUI implimentation.
- * @author 210034146
+ * @author Dhananjay Saikumar
  */
 class View {
     protected Model model;

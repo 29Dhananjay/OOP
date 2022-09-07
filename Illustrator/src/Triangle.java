@@ -5,7 +5,7 @@ import java.awt.*;
 import java.awt.geom.*;
 /**
  * class Triangle extends the abstract shape class.
- * @author 210034146
+ * @author Dhananjay Saikumar
  */
 public class Triangle extends Shape{
     /**

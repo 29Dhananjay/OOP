@@ -6,7 +6,7 @@ import java.awt.geom.*;
 
 /**
  * class Parallelogram extends the abstract shape class.
- * @author 210034146
+ * @author Dhananjay Saikumar
  */
 public class Parallelogram extends Shape{
     /**

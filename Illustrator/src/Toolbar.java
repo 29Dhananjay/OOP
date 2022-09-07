@@ -7,7 +7,7 @@ import java.util.*;
 
 /**
  * class Toolbar, contains all the buttons, and a drop down menu.
- * @author 210034146
+ * @author Dhananjay Saikumar
  */
 class Toolbar extends JToolBar{
     private View view;
