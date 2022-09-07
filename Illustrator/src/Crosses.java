@@ -6,7 +6,7 @@ import java.awt.geom.*;
 
 /**
  * class Crosses extends the abstract shape class.
- * @author 210034146
+ * @author Dhananjay Saikumar
  */
 public class Crosses extends Shape{
     /**
