@@ -1,2 +1,2 @@
 # OOP
-Object-oriented programming
+A few simple projects involving Object-oriented programming
