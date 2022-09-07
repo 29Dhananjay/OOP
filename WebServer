@@ -1,4 +1,0 @@
-Java web server 
-
-• Returning of binary images (GIF, JPEG and PNG).
-• Multithreading – support multiple concurrent client connection requests up to a specified limit.
